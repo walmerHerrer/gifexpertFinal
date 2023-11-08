@@ -1,0 +1,36 @@
+.root{
+  margin-block:20px;
+}
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+img {
+  border-radius: 10px;
+  width: 100%;
+}
+.card {
+  border: 1px solid #cccccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(145, 131, 131, 0.5);
+  margin: 20px;
+  text-align: center;
+}
+
+
+.card-content {
+  padding: 15px;
+}
+
+.card-content h2 {
+  font-size: 18px;
+  
+}
+
+.card-content a {
+  display: block;
+  text-align: right;
+  text-decoration: none;
+  color: #0074D9;
+}
