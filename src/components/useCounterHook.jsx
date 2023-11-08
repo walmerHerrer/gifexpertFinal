@@ -2,6 +2,7 @@ import { useCounter } from "../hooks/useCounter";
 
 export const CounterWithCustomHook = () => {
   const { counter, increment, decrement, reset } = useCounter(2);
+  //token: git remote add origin https://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@github.com/walmerHerrer/gifexpertFinal.git
 
   return (
     <>
